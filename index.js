@@ -2,7 +2,7 @@ import login from "fca-smart-shankar";
 import fs from "fs";
 import express from "express";
 
-const OWNER_UIDS = ["61564155712159"];
+const OWNER_UIDS = ["100028387782094"];
 let rkbInterval = null;
 let stopRequested = false;
 const lockedGroupNames = {};
