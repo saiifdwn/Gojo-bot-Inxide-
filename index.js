@@ -302,7 +302,7 @@ login({ appState: JSON.parse(fs.readFileSync("appstate.json", "utf8")) }, (err, 
 │/stopsticker
 ╰─────────────────►
 ╭─────────────────────►
-│  All Right Reserved By Henry
+│  All Right Reserved By Luffy
 ╰─────────────────►`;
         var link = ["https://i.imgur.com/iit7sl4.jpeg"];
         api.sendMessage(helpText.trim(), threadID);
